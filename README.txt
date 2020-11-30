@@ -1,5 +1,5 @@
 Brenden Song
-Datascience projects portfolios
+Datascience project portfolios
 
 
 bsong75@gmail.com
